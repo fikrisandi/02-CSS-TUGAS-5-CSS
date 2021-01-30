@@ -1,0 +1,15 @@
+header,footer{
+  background-color: black;
+
+  color: white;
+}
+
+.menu{
+  color: white;
+  font-weight: 200;
+}
+
+p{
+  font-family: serif;
+  font-weight: lighter;
+}
